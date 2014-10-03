@@ -2,6 +2,7 @@
 * Movies
 * Coffee
 * Computers
+* and more coffee!
 
 #Hobbies
 * Reading
