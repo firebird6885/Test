@@ -10,3 +10,4 @@
 
 #Programming Background
 
+I haven't had any programming experience prior to coming to OSU
