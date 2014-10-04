@@ -1,5 +1,5 @@
 #Interests
-* Science Fiction Movies
+* Movies
 * Coffee
 * Computers
 * and more coffee!
