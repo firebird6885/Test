@@ -14,3 +14,5 @@
 
 I haven't had any programming experience prior to coming to OSU.
 Except for learning some HTML/CSS and Javascript on codecademy.org
+
+Here is some more text. 
